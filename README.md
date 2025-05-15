@@ -1,0 +1,2 @@
+# LINEMAZE
+MSXのBASICで記述した3DLINE迷路ルーチンです
